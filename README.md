@@ -2,7 +2,7 @@
 
 Welcome to the **Laravel CRUD Project**! This project is designed for beginners who want to learn how to perform basic CRUD (Create, Read, Update, Delete) operations using the Laravel framework.
 
-## 🚀 Features
+##  Features
 
 -  **Create** new records in the database.
 -  **Read** and display records from the database.
