@@ -1,15 +1,15 @@
-# 🌟 Laravel CRUD Project
+#  Laravel CRUD Project
 
 Welcome to the **Laravel CRUD Project**! This project is designed for beginners who want to learn how to perform basic CRUD (Create, Read, Update, Delete) operations using the Laravel framework.
 
 ## 🚀 Features
 
-- 📝 **Create** new records in the database.
-- 👀 **Read** and display records from the database.
-- ✏️ **Update** existing records.
-- ❌ **Delete** records you no longer need.
+-  **Create** new records in the database.
+-  **Read** and display records from the database.
+-  **Update** existing records.
+-  **Delete** records you no longer need.
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 Before you get started, ensure you have the following installed on your machine:
 
@@ -18,7 +18,7 @@ Before you get started, ensure you have the following installed on your machine:
 - [MySQL](https://www.mysql.com/downloads/)
 - [Node.js & npm](https://nodejs.org/en/download/)
 
-## 📦 Installation
+##  Installation
 
 ###  Clone the Repository
 
